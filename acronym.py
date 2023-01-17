@@ -4,3 +4,5 @@ a = " "
 for i in text:
     a = a+str(i[0]).upper()
 print(a)
+#this is a acronym project
+# this is a python project
